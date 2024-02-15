@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shanali Rajakaruna</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
+- 🔭 Crafting code **and conjuring dreams at SLIIT. | Sri Lanka Institute of Information Technology.**
+
 - 🌱 I’m currently learning **Mern Stack**
+
+- 👯 Always expanding **my skills and orbiting the latest tech trends.**
+
+- 💬 Ask me **anything code-related, from algorithms to web wizardry.**
 
 - 📫 How to reach me **rajakarunashanali@gmail.com**
 

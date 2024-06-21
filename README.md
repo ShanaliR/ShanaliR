@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanali Rajakaruna</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">A passionate software engineering undergraduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanalir&label=Profile%20views&color=0e75b6&style=flat" alt="shanalir" /> </p>
 

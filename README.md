@@ -9,7 +9,7 @@
 
 - 💬 Ask me **anything code-related, from algorithms to web wizardry.**
 
-- 📫 How to reach me **rajakarunashanali@gmail.com**
+- 📫 How to reach me **shanalisrajakaruna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
